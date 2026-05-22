@@ -1,5 +1,7 @@
 # MLX Swift LM
 
+This is ClinDesk's public fork of [ml-explore/mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm). It keeps the upstream package structure and currently carries ClinDesk-specific Gemma 4 audio input support for local voice-note transcription.
+
 MLX Swift LM is a Swift package to build tools and applications with large language models (LLMs) and vision language models (VLMs) in [MLX Swift](https://github.com/ml-explore/mlx-swift).
 
 > [!IMPORTANT]
